@@ -27,6 +27,14 @@
 #       order  => 10
 #     }
 #
+#     or to put configuration in definition:
+#
+#     logstash::configfile { 'logfile__input':
+#       content => { path => '/path/to/file',
+#                    type => 'log-file' },
+#       order => 10
+#     }
+#
 # === Authors
 #
 # * Richard Pijnenburg <mailto:richard.pijnenburg@elasticsearch.com>

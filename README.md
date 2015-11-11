@@ -2,7 +2,7 @@
 
 A Puppet module for managing and configuring [Logstash](http://logstash.net/).
 
-[![Build Status](https://travis-ci.org/elasticsearch/puppet-logstash.png?branch=master)](https://travis-ci.org/elasticsearch/puppet-logstash)
+[ ![Codeship Status for jeremycrussell/puppet-logstash](https://codeship.com/projects/96333b20-6ad9-0133-2b65-1a8865ac42d3/status?branch=master)](https://codeship.com/projects/115002)
 
 ## Versions
 
